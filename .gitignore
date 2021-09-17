@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# sqlite file
+*.db
+
+# direnv config
+.envrc
